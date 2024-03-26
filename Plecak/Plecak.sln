@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plecak", "Plecak.csproj", "{8FBDF109-03E7-4E7B-85F2-D0652969ED7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\TestProject\TestProject.csproj", "{04D8DE2D-A3CA-4EDF-A0C0-DBA32B0E4873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "..\GUI\GUI.csproj", "{65DAD176-414C-4008-9C1C-FA4859036AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FBDF109-03E7-4E7B-85F2-D0652969ED7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBDF109-03E7-4E7B-85F2-D0652969ED7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBDF109-03E7-4E7B-85F2-D0652969ED7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBDF109-03E7-4E7B-85F2-D0652969ED7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D8DE2D-A3CA-4EDF-A0C0-DBA32B0E4873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D8DE2D-A3CA-4EDF-A0C0-DBA32B0E4873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D8DE2D-A3CA-4EDF-A0C0-DBA32B0E4873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D8DE2D-A3CA-4EDF-A0C0-DBA32B0E4873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DAD176-414C-4008-9C1C-FA4859036AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DAD176-414C-4008-9C1C-FA4859036AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DAD176-414C-4008-9C1C-FA4859036AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DAD176-414C-4008-9C1C-FA4859036AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6625F55-32F9-4B9F-B955-945AFB80310C}
+	EndGlobalSection
+EndGlobal
